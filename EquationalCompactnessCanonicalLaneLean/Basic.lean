@@ -1,0 +1,2 @@
+import EquationalCompactnessCanonicalLaneLean.GateLemmas
+import EquationalCompactnessCanonicalLaneLean.FinalTheorem

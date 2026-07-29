@@ -1,0 +1,14 @@
+import EquationalCompactnessCanonicalLaneLean.AdmissibleClass
+import EquationalCompactnessCanonicalLaneLean.BridgeLemmas
+import EquationalCompactnessCanonicalLaneLean.GateLemmas
+import EquationalCompactnessCanonicalLaneLean.FinalTheorem
+import EquationalCompactnessCanonicalLaneLean.EquationalCompactnessObjects
+import EquationalCompactnessCanonicalLaneLean.EquationalCompactnessPackage
+
+namespace HautevilleHouse
+namespace EquationalCompactnessCanonicalLaneLean
+
+-- Root module for the Equational Compactness Canonical Lane Lean package.
+
+end EquationalCompactnessCanonicalLaneLean
+end HautevilleHouse
